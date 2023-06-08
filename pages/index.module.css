@@ -1,0 +1,424 @@
+.whitelist11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2560px;
+  height: 1600px;
+  object-fit: cover;
+}
+.byRaumNetwork {
+  margin: 0;
+}
+.byRaumNetworkContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.byRaumNetworkContainer {
+  position: absolute;
+  height: 73.4%;
+  top: 26.6%;
+  left: calc(50% - 132.5px);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 264px;
+}
+.frameChild {
+  position: absolute;
+  height: 7.59%;
+  width: calc(100% + 3px);
+  top: -3.8%;
+  right: -1.5px;
+  bottom: 96.2%;
+  left: -1.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.byRaumNetworkAllRightsReParent {
+  position: absolute;
+  width: calc(100% - 24px);
+  right: 11px;
+  bottom: 0;
+  left: 13px;
+  height: 39.51px;
+}
+.groupChild {
+  border: 0;
+  background-color: var(--color-darkslategray-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 7.01px;
+  width: 296.5px;
+  height: 37.15px;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 6.96px);
+  left: 8.41px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 29.53px;
+  left: 0;
+  width: 296.5px;
+  height: 37.15px;
+}
+.buttonName {
+  position: relative;
+  font-size: var(--font-size-6xs-7);
+  line-height: 8.04px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: right;
+}
+.iconoutlinearrowRight {
+  position: relative;
+  width: 6.03px;
+  height: 6.03px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonNameParent,
+.buttonprimarywithIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonNameParent {
+  flex-direction: row;
+  gap: 3.02px;
+}
+.buttonprimarywithIcon {
+  cursor: pointer;
+  border: 0;
+  padding: 5.362053394317627px 6.702566623687744px;
+  background-color: var(--color-mediumslateblue);
+  position: absolute;
+  top: 0;
+  right: 2.43px;
+  border-radius: 16.76px;
+  width: 56.08px;
+  height: 16.82px;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.rnPolygon {
+  position: absolute;
+  top: calc(50% - 31.72px);
+  left: 22.55px;
+  color: var(--color-white);
+}
+.raumLogo640640Round2 {
+  position: absolute;
+  top: 1.62px;
+  left: 1.55px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.groupContainer,
+.groupWrapper {
+  position: absolute;
+  top: 14.63px;
+  left: 7.01px;
+  width: 296.5px;
+  height: 66.68px;
+}
+.groupWrapper {
+  top: 0;
+  left: 0;
+  border-radius: 7.01px;
+  background-color: var(--color-darkslategray-200);
+  width: 311.22px;
+  height: 90.42px;
+}
+.transactionFee5 {
+  align-self: stretch;
+  position: relative;
+}
+.buttonName1 {
+  position: relative;
+  font-size: 14.02px;
+  line-height: 16.82px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: right;
+}
+.iconoutlinearrowRight1 {
+  position: relative;
+  width: 12.62px;
+  height: 12.62px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buttonNameGroup,
+.buttonprimarywithIcon1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonNameGroup {
+  flex-direction: row;
+  gap: 6.31px;
+}
+.buttonprimarywithIcon1 {
+  cursor: pointer;
+  border: 0;
+  padding: 11.215237617492676px 14.019046783447266px;
+  background-color: var(--color-mediumslateblue);
+  align-self: stretch;
+  border-radius: 35.05px;
+  height: 35.05px;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.transactionFee5MaticNetParent {
+  position: absolute;
+  top: 106.1px;
+  left: 5.56px;
+  width: 300.71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18.22px;
+}
+.frame,
+.groupItem {
+  position: absolute;
+  left: 0;
+}
+.frame {
+  top: 112.15px;
+  width: 311.22px;
+  height: 173.14px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.groupItem {
+  border: 0;
+  background-color: var(--color-darkslategray-100);
+  top: 28.53px;
+  border-radius: 7.01px;
+  width: 296.5px;
+  height: 37.15px;
+}
+.xasd {
+  position: absolute;
+  top: 39.87px;
+  left: 8.55px;
+  font-size: 11.22px;
+  font-family: var(--font-outfit);
+  color: rgba(255, 255, 255, 0.74);
+  text-align: left;
+}
+.buttonprimarywithIcon2 {
+  cursor: pointer;
+  border: 0;
+  padding: 5.362053394317627px 6.702566623687744px;
+  background-color: var(--color-mediumslateblue);
+  position: absolute;
+  height: 25.62%;
+  width: 18.91%;
+  top: 0;
+  right: 0.82%;
+  bottom: 74.38%;
+  left: 80.27%;
+  border-radius: 16.76px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.rnStarknet {
+  position: absolute;
+  top: 1.87px;
+  left: 22.55px;
+  font-size: 11.22px;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: left;
+}
+.raumLogo640640Round21 {
+  position: absolute;
+  top: 1.87px;
+  left: 1.55px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 14.23px;
+  left: 7.01px;
+  width: 296.5px;
+  height: 65.68px;
+}
+.groupFrame {
+  position: absolute;
+  height: 31.7%;
+  top: 39.31%;
+  right: 0;
+  bottom: 28.99%;
+  border-radius: 7.01px;
+  background-color: var(--color-darkslategray-200);
+  width: 311.22px;
+}
+.frameGroup {
+  position: relative;
+  width: 311.22px;
+  height: 285.29px;
+}
+.frameWrapper {
+  position: absolute;
+  top: calc(50% - 242.5px);
+  left: calc(50% - 168.5px);
+  border-radius: 14.02px;
+  background-color: rgba(88, 160, 203, 0.39);
+  width: 337px;
+  height: 329px;
+  display: flex;
+  flex-direction: row;
+  padding: 22px 13px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: 11.22px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: var(--font-outfit);
+}
+.frameParent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 485px;
+}
+.guildiconblack1,
+.icons8Telegram1501 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 84px;
+  width: 19px;
+  height: 19px;
+  background-image: url(/guildiconblack-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.icons8Telegram1501 {
+  left: 28px;
+  background-image: url(/icons8telegram150-1@3x.png);
+}
+.icons8Discord25011 {
+  left: 56px;
+  width: 19px;
+  object-fit: cover;
+}
+.icons8Discord25011,
+.icons8Twitter4801,
+.socials {
+  position: absolute;
+  top: 0;
+  height: 19px;
+}
+.icons8Twitter4801 {
+  text-decoration: none;
+  left: 0;
+  width: 19px;
+  background-image: url(/icons8twitter480-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.socials {
+  right: 0;
+  width: 103px;
+}
+.groupParent {
+  position: absolute;
+  width: calc(100% - 23px);
+  right: 12px;
+  bottom: 0;
+  left: 11px;
+  height: 598px;
+}
+.raumLogo640640Round1 {
+  position: absolute;
+  height: 100%;
+  width: 34.13%;
+  top: 0;
+  right: 65.87%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bridge {
+  position: absolute;
+  height: 88.37%;
+  width: 61.11%;
+  top: 4.65%;
+  left: 38.89%;
+  line-height: 16.82px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+}
+.component1 {
+  position: absolute;
+  top: 30px;
+  left: 12px;
+  width: 126px;
+  height: 43px;
+  text-align: left;
+  font-size: 24px;
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+.raumBridgeMobile360x640 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  max-width: 2560px;
+  max-height: 1600px;
+  text-align: center;
+  font-size: 12px;
+  color: #000;
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 420px) {
+  .raumBridgeMobile360x640 {
+    display: flex;
+    max-width: 412px;
+    max-height: 915px;
+  }
+}
+@media screen and (max-width: 350px) {
+  .raumBridgeMobile360x640 {
+    display: flex;
+    width: 360px;
+    min-width: 360px;
+    max-width: 360px;
+    min-height: 640px;
+    max-height: 640px;
+  }
+}
