@@ -1,7 +1,5 @@
 {
     "url": "http://localhost:3000",
     "name": "RaumFi Dex",
-    "iconUrl": "https://github.com/Raum-Network/RN_Bridge_UI/blob/71b6f6f489d01b78181860dc6fe8466dc3b398b1/public/raum-logo640-640-round-1%402x.png",
-    "termsOfUseUrl": "https://ipfs.io/ipfs/bafybeignmchobdmpwlkkm7bks5tj5kksfyuueuelcs2vw6kxfo2lbnmxe4",
-    "privacyPolicyUrl": "https://ipfs.io/ipfs/bafybeidqwzm2tgn46lhykiuzto2ye2taug5jfeytguizpydjcwfqecpiky"
+    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
 }
